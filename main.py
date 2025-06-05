@@ -15,3 +15,4 @@ app.add_middleware(
 @app.get("/")
 async def root():
     return {"message": "Bienvenue dans l'API VAIBO"}
+print("✅ GitHub Actions is working perfectly!")
