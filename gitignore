@@ -1,0 +1,28 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Fichiers temporaires / logs
+*.log
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Configs utilisateur
+*.swp
+*.swo
+
+# Exclure les fichiers de base de données (si utilisés localement)
+*.sqlite3
+*.db

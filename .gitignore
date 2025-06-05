@@ -1,0 +1,44 @@
+# Google App Engine generated folder
+appengine-generated/
+# Ignorer les fichiers de configuration sensibles
+.env
+.env.local
+firebaseConfig.js
+firebase.js
+*.key
+*.pem
+*.crt
+
+# Dossiers système
+node_modules/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.log
+*.bak
+*.tmp
+# 🔐 Fichiers de configuration sensibles
+.env
+.env.local
+firebaseConfig.js
+firebase.js
+*.key
+*.pem
+*.crt
+
+# ⚙️ Dossiers système et de l’éditeur
+node_modules/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+
+# 🗑️ Fichiers temporaires et journaux
+*.log
+*.bak
+*.tmp
