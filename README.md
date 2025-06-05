@@ -9,3 +9,4 @@
 ---
 
 © 2025 VAIBO | جميع الحقوق محفوظة.
+# Test trigger for GitHub Actions
