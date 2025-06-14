@@ -1,0 +1,28 @@
+"project_info": {
+    "project_number": "665237681275",
+    "project_id": "vaidbo",
+    "storage_bucket": "vaidbo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665237681275:android:526237adeaa27a8bbadede",
+        "android_client_info": {
+          "package_name": "VAIDBO.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRfu84Y5NWqB2EMq2Sr7RDnGkVxleWxtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}apply plugin: 'com.google.gms.google-services'

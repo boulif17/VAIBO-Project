@@ -1,0 +1,47 @@
+{
+  "name": "vaibo_project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^22.2.0",
+    "firebase": "^10.7.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^18.0.0"
+  },
+  "description": "![CI](https://github.com/boulif17/VAIBO-Project/actions/workflows/app.yml/badge.svg)",
+  "main": "auth.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boulif17/VAIBO-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boulif17/VAIBO-Project/issues"
+  },
+  "homepage": "https://github.com/boulif17/VAIBO-Project#readme"
+}
